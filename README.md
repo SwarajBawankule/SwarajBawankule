@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swaraj Bawankule</h1>
-<h3 align="center">A passionate Frontend Developer & Java Developer from India</h3>
+<h3 align="center">A passionate Web Developer As Well As Java Developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd283ajA3d2xiMXBtOWlpMjRpYTJtZmR0b3RtcDU0NjAwYW1ndG1rZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KEYMsj2LcXzfcTP5ii/giphy.gif">
 
